@@ -1,4 +1,5 @@
 "use client"
+/* eslint-disable @typescript-eslint/no-explicit-any */
 
 import { Trash2, Star } from "lucide-react"
 import Sidebar from "@/components/Sidebar/Sidebar"
